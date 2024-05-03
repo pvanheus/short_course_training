@@ -69,3 +69,11 @@ Most of the discussion on website content will be discussed later, but for now s
 
 3. Smaller media (such as typical PDFs or images) can be hosted alongside website content, but larger and more complex media such as videos is typically hosted elsewhere, for example on Vimeo or YouTube, and then embedded in the pages of the website.
 
+# Learning Management Systems
+
+All of the above has spoken to hosting training materials. It is worth noting that this does not speak to a Learning Management System (LMS). Learning Management Systems like Sakai (which underlies UWC's iKamva), Moodle and others manage the process of presenting both content and assessments such as quizzes and assignments. They often also provide interactive features like forums.
+
+LMSs address some of the logistical challenges of teaching and training. Why not use them for content hosting? While they provide an attractive option, they are typically tied to organisations, like iKamva's relationship with UWC, and providing access to those outside of the hosting organisation can be challenging.
+
+More importantly, the content hosting capabilities of LMSs are typically somewhat similar to those of a CMS and because of this extracting content from a course and re-using it between different training can be challenging. The standards, such as [SCORM](https://scorm.com/scorm-explained/one-minute-scorm-overview/), adopted by LMSs are often oriented around sharing assets such as presentations and often have limited open-source support. That is why this material focuses on hosting and presenting material in a way that facilitates collaboration and re-use including between members of different organisations.
+
