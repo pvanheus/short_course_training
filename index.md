@@ -3,6 +3,14 @@ layout: index
 published: true
 ---
 
+# Developing and Hosting Short Course websites using Course-in-a-Box
+
+This website is developed to help [SANBI](https://www.sanbi.ac.za) understanding the process of developing content for training materials using a static site builder and the Course-in-a-Box structure.
+
+* **[Background](modules/background/WebContent/)** - What underlying concepts do you need to understand to understand how Course-in-a-Box works
+
+## What is Course in a Box?
+
 Course-in-a-Box is a free tool for building and publishing online courses—no prior coding experience required. This guide was made using Course-in-a-Box, so what you see here is what you’ll start with. There are three modules that walk through the course creation process, all linked in the nav bar at the top of the page:
 * **[Setup](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
 * **[Content](/modules/content/markdown-and-media)** -  Update the course structure and add your copy & media
